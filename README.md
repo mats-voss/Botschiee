@@ -10,7 +10,7 @@ If you wish, you may also change `<LOG CHANNEL ID>` in `config.ini` to a Discord
 This bot retrieves statistics from the official public [Hypixel API](https://api.hypixel.net). Documentation for the API can be found [here](https://github.com/HypixelDev/PublicAPI/tree/master/Documentation).
 
 # License
-[matsivoss/Botschiee](https://github.com/matsivoss/Botschiee) is licensed under the MIT License. This license can be viewed [here](https://github.com/MatsiVoss/Botschiee/blob/main/README.md).
+[matsivoss/Botschiee](https://github.com/matsivoss/Botschiee) is licensed under the MIT License. This license can be viewed [here](https://github.com/MatsiVoss/Botschiee/blob/main/LICENSE).
 
 # Disclaimer
 This bot is in no way affiliated with or endorsed by [Hypixel, Inc](https://hypixel.net). All logos, brands, trademarks, and registered trademarks are property of their respective owners.
